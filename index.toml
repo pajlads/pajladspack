@@ -3,3 +3,143 @@ hash-format = "sha256"
 [[files]]
 file = "LICENSE"
 hash = "bf4b0b27a4120badd4f2c8203c2fc5828f9a2529e4fb3881086ec5a6b0c86410"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "4d571d5ebe245ffb62a0df83e81d1c03670807d3528650d6dd9c983bd26ae860"
+metafile = true
+
+[[files]]
+file = "mods/auditory.pw.toml"
+hash = "a086399e727b882a3ee432a3154a6b6b8b81d780e89ae860b040365507af56e7"
+metafile = true
+
+[[files]]
+file = "mods/better-animations-collection.pw.toml"
+hash = "026414a0dcab2f08018f569431081e5e5c245cdb3c74ee3aaaa466403b6a7be3"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "3cbe3d523b39667928fcc34f71651b0e581e5c541dd5ecf17228464770466bc5"
+metafile = true
+
+[[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "b6d88ec0e940243d228316c8b3a186c4bb5024e8dba627c88bdc29f93bf7e31b"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-fences.pw.toml"
+hash = "4f15070fd65003a7f2e99e7b622dfca850f33826a562fdb9f47a3e90653861c6"
+metafile = true
+
+[[files]]
+file = "mods/dynamicsurroundings_remasteredfabric.pw.toml"
+hash = "4d67ab760c17564b2918606dc6cd6944b2b4630c6d147c2ba8989ad932fd73f1"
+metafile = true
+
+[[files]]
+file = "mods/extrasounds.pw.toml"
+hash = "2e871ee3068cfb44e799d244f4e586e6f32e5708b16a6832939c3c4f01d91170"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "8c9f6599af1f4fd75e124bc63fdf7d7bb978841cba6edbe5a0a2bd77a4fc0624"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "7ae83690f725e59e7d527fc272e16a120a7fa683f25b4e4142b121b3828ecfc5"
+metafile = true
+
+[[files]]
+file = "mods/iceberg.pw.toml"
+hash = "a81c6e60f18faf727ed743029c8a4d093c6c96f0c450be7bf3535985ee6f4288"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "9b628c73b749c901f12ba08b8304c161801903b1dd3fdbb6d4b93a9d42d25afa"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
+file = "mods/legendary-tooltips.pw.toml"
+hash = "e4958dc5dc67d3595710ee4b644edd1bed50eecf2fd990949487d47999e40729"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "77e9a02e09ec5a0d6682e5f448953048d99e36da299d92627044aff0828798e3"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "4716789e4a806c1cabcef27e67150215edb4c3d737e9a87d90f2f615d6c196cd"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "09eb7db3ca7778d91ad66845e41b6b4814655fe375a05d4a69528c74b4f1c8af"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
+metafile = true
+
+[[files]]
+file = "mods/prism-lib.pw.toml"
+hash = "8134c08af1ac4d5c8aef4b134d205fb12b202c2a6ad323cc93b7bb8ada19de21"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "0568443a68c429253e10bee7655f0baf669f1fd8dd06b39cb83423f6c522cadc"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "d26fc59b8f6faba19e94a2586e88ec7666a6d8cdfb3056a52ae9c9469c77da45"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
+metafile = true
+
+[[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "c8236c4cf2c8f1a73f7790f519fe9afa1c469903600ac5aea21154437c2bcbbe"
+metafile = true
