@@ -1,0 +1,13 @@
+name = "Pajladspack"
+author = "1xelerate, Mm2PL"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "cd3a098d81dc8c8aee2198411f0b9a920e9d5dafcc7d52fc3c23e9c76a3ff869"
+
+[versions]
+fabric = "0.14.12"
+minecraft = "1.19.2"
