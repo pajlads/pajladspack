@@ -10,6 +10,11 @@ hash = "4d571d5ebe245ffb62a0df83e81d1c03670807d3528650d6dd9c983bd26ae860"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "808c30194a90fce3a57ba82e92333518f3a14a5fdb69c84b5fac247e46557632"
+metafile = true
+
+[[files]]
 file = "mods/auditory.pw.toml"
 hash = "a086399e727b882a3ee432a3154a6b6b8b81d780e89ae860b040365507af56e7"
 metafile = true
@@ -122,6 +127,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "0568443a68c429253e10bee7655f0baf669f1fd8dd06b39cb83423f6c522cadc"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "6340a88921b62b5e3f688fa0808817e8cb338a725b070df52405bc26e7e5b49f"
 metafile = true
 
 [[files]]
